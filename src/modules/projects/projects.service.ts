@@ -12,6 +12,10 @@ const projects = [
     {
         "id":3,
         "name":"cloud"
+    },
+    {
+        "id":4,
+        "name":"Data & AI"
     }
 ]
 
